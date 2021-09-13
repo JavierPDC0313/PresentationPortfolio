@@ -10,11 +10,12 @@
 }
 
 #foto{
-    width: 300px;
-    right: 20px;
+    width: 250px;
     margin-right: 40px;
 }
 
 #photo-container{
-    align-items: center;
+    align-items: left;
+    border: 3px;
+    border-radius: 2;
 }
