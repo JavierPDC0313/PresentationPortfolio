@@ -1,0 +1,20 @@
+#container{
+    margin-top: 50px;
+    width: 45%;
+    float: left;
+    background-color: rgb(63, 192, 164);
+}
+
+#body{
+    background:url(background.jpg);
+}
+
+#foto{
+    width: 300px;
+    right: 20px;
+    margin-right: 40px;
+}
+
+#photo-container{
+    align-items: center;
+}
